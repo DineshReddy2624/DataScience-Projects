@@ -2,8 +2,10 @@ import time
 global balance
 global password
 global pin
-balance = 10000
-password = 1234
+print("Enter the balance")
+balance = int(input("Enter the amount"))
+print("Enter the password")
+password = int(input("Enter the password"))
 def check_balance():
     if pin == password:
         print(f"\nYour current balance is: {balance}")
