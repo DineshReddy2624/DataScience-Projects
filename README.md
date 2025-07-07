@@ -16,6 +16,14 @@ Welcome to my Data Science Projects repository! This collection includes various
 
 ---
 
+📬 Contact
+Author: K. Dinesh Reddy
+GitHub: DineshReddy2624
+LinkedIn: https://www.linkedin.com/in/dinesh-reddy-kommi-reddy-639878305/
+Email: dineshreddykommireddy2004@gmail.com
+
+---
+
 ## 🚀 How to Use
 
 1. Clone the repository:
