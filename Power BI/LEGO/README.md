@@ -93,4 +93,4 @@ This dashboard provides a comprehensive overview of LEGO product data, enabling 
 ---
 
 ## 🔗 Project Link
-👉 https://github.com/DineshReddy2624
+👉 https://github.com/DineshReddy2624/DataScience-Projects/tree/main/Power%20BI/LEGO
